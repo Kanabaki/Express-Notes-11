@@ -7,7 +7,7 @@ const db = require("./db/db.json");
 const uid = new ShortUniqueId({ length: 6 });
 const app = express();
 // specifies which port Express.js will use to run
-const PORT = 3001;
+const PORT =  process.env.PORT || 3001;
 
 // Middleware =======================================================================
 app.use(express.json());
