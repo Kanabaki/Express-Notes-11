@@ -18,7 +18,7 @@ The Express Notes 11 app was created to provide a website that can keep track of
 ![Express notes note page image](./public/assets/images/Express_notes_notes.png)
 
 
-**Deployed App Link:** https://rocky-inlet-85078-68dbce430e30.herokuapp.com/
+**Deployed App Link:** https://rocky-inlet-85078-8809de69cfbe.herokuapp.com/
 
 Click the link to the deployed application above to start using the app. When you get to the homepage click **Get Started** to enter the notes page. Once in the notes page, you can create notes and save them to your list using the save button in the top right. If you wish to delete a note you can click on the trash can icon to delete the note from your saved list. Your saved notes are written to a json database file for persistence so if you need to reload the page, your notes are saved. 
 
@@ -27,6 +27,7 @@ Click the link to the deployed application above to start using the app. When yo
 Original Starter code from: https://github.com/coding-boot-camp/miniature-eureka
 
 Referenced Repo used to understand the backend and develop the server.js: https://github.com/nramirez686/instantNotes
+
 ## License
 License: MIT
 
